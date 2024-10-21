@@ -1,0 +1,13 @@
+**Evolución de las preferencias cinematográficas basado en la tendencia de los géneros de las películas en el lapso de 1910-2024**
+
+Integrantes:
+
+*   Eldon Caldwell Salazar
+*   Rafael Garcia Delgado 
+*   Christopher Ramírez Suárez
+*   Adrian rodriguez rodriguez
+
+Universidad Nacional Heredia, CostaRica
+
+DataFrame:
+https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
